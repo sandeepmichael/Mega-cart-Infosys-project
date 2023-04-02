@@ -1,0 +1,22 @@
+img {
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    margin: 10px ;
+    align-items: center;
+}
+body {
+    background-color: rgb(160, 232, 160);
+}
+.logoutbtn{
+  margin-left: 50%;
+  font-size: large;
+
+}
+#date {
+    margin-left: 80%;
+}
+#date2 {
+    margin-left: 80%;
+}
